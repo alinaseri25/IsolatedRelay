@@ -1,0 +1,44 @@
+Teardrop Report PCB1.PcbDoc
+On 12/19/2018 at 17:50:55
+
+Pads visited                : 31
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad C_Relay_1-1(4020mil,2911mil) on Top Layer
+Pad C_Relay_1-2(4020mil,3029mil) on Top Layer
+Pad R_T_1-1(3719.882mil,3250mil) on Top Layer
+Pad R_T_1-2(3830.118mil,3250mil) on Top Layer
+Pad R_Relay_Show_1-1(3595mil,3304.882mil) on Top Layer
+Pad R_Relay_Show_1-2(3595mil,3415.118mil) on Top Layer
+Pad D_Relay_show_1-1(3766.496mil,3420mil) on Top Layer
+Pad D_Relay_show_1-2(3703.504mil,3420mil) on Top Layer
+Pad P_Relay_Control-2(3345mil,3315mil) on Multi-Layer
+Pad P_Relay_Control-1(3445mil,3315mil) on Multi-Layer
+Pad P_Relay_Supply_1-1(4040mil,3510mil) on Multi-Layer
+Pad P_Relay_Supply_1-2(3940mil,3510mil) on Multi-Layer
+Pad P_Relay_Out_1-1(5130mil,2985mil) on Multi-Layer
+Pad P_Relay_Out_1-2(5130mil,3085mil) on Multi-Layer
+Pad P_Relay_Out_1-3(5130mil,3185mil) on Multi-Layer
+Pad Relay_1-3(4399.842mil,3321.22mil) on Multi-Layer
+Pad Relay_1-1(4399.842mil,2848.78mil) on Multi-Layer
+Pad Relay_1-5(4880.158mil,3321.22mil) on Multi-Layer
+Pad Relay_1-4(4880.158mil,2848.78mil) on Multi-Layer
+Pad Relay_1-2(4321.102mil,3085mil) on Multi-Layer
+Pad U-sw-opto-SW_1-P$1(3295mil,3155mil) on Multi-Layer
+Pad U-sw-opto-SW_1-P$2(3295mil,3055mil) on Multi-Layer
+Pad U-sw-opto-SW_1-P$3(3595mil,3055mil) on Multi-Layer
+Pad U-sw-opto-SW_1-P$4(3595mil,3155mil) on Multi-Layer
+Pad D_Relay_1-1(4160mil,3320.905mil) on Multi-Layer
+Pad D_Relay_1-2(4160mil,2909.095mil) on Multi-Layer
+Pad T_Relay_1-1(4010mil,3300mil) on Multi-Layer
+Pad T_Relay_1-2(3935mil,3250mil) on Multi-Layer
+Pad T_Relay_1-3(4010mil,3200mil) on Multi-Layer
+Pad R_SW_1-2(3625mil,2915mil) on Multi-Layer
+Pad R_SW_1-1(3325mil,2915mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+
